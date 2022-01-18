@@ -189,7 +189,7 @@
           <br>
           <a href="/files.zip?raw=true"><b>Download Decoders and Script</b></a><br>
           <br>
-          <a href="http://happysat.nl/RS/Ubuntu/" target="_blank">Updated
+          <a href="https://github.com/happysat/RS-Binaries/tree/main/Ubuntu" target="_blank">Updated
             compiled RS-Decoders are overhere.</a><br>
           <br>
           <p> <a href="#Scripts_Setting_up_Virtual_ports">And skip this
