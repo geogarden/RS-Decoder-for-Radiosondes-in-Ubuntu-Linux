@@ -17,12 +17,11 @@
                 text-decoration-style: initial; text-decoration-color:
                 initial; display: inline !important; float: none;">RS-Decoder
                 for Radiosonde's in Ubuntu Linux</span>.</font> </h1>
-          <p class="siteSub"><br>
-          </p>
+          <p class="siteSub">
           <div class="articleRight"> <img src="img/rs1.png" alt="rs41s"
               width="82" height="280"><br>
-            Vaisala RS-41<br>
           </div>
+          <br>
           <p style="user-select: auto !important; margin: 0px 0px 20px;
             padding: 0px; border: 0px; outline: 0px; font-size: 15px;
             vertical-align: baseline; background: 0px 0px rgb(255, 255,
@@ -89,15 +88,12 @@
                         Audio Setup</a></span> </li>
                   <li><span>1.7&nbsp; <a href="#GPSD_Setup_">GPSD Setup</a><br>
                     </span></li>
-                  <li><span>1.8&nbsp; </span><a href="#Get_it_all_Running_">Get
-                      it all running</a><a
-                      href="#Zilog_DFM_Decoder_Scripts_"><br>
+                  <li><span>1.8&nbsp; </span><a href="#Get_it_all_Running_">
                     </a></li>
                 </ul>
               </li>
             </ul>
           </div>
-          <br>
           <p style="color: rgb(0, 0, 0); font-family: &quot;Times New
             Roman&quot;; font-size: medium; font-style: normal;
             font-variant-ligatures: normal; font-variant-caps: normal;
