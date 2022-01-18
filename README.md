@@ -67,9 +67,9 @@
           </p>
           <br>
           <div class="contentsPanel">
-            <div class="contentsHeader">Contents</div>
+            <div class="contentsHeader">Contents:</div>
             <ul>
-              <li> <span>1</span>Overview
+              <li> <span></span>Overview
                 <ul>
                   <li><span>1.1&nbsp; <a href="#Dependencies_">Dependencies</a></span>
                   </li>
@@ -112,6 +112,7 @@
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
             <br>
           </div>
+          <br>
           <p style="color: rgb(0, 0, 0); font-family: &quot;Times New
             Roman&quot;; font-size: medium; font-style: normal;
             font-variant-ligatures: normal; font-variant-caps: normal;
