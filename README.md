@@ -88,7 +88,8 @@
                         Audio Setup</a></span> </li>
                   <li><span>1.7&nbsp; <a href="#GPSD_Setup_">GPSD Setup</a><br>
                     </span></li>
-                  <li><span>1.8&nbsp; </span><a href="#Get_it_all_Running_">
+                   <li><span>1.8&nbsp; </span><a href="#Get_it_all_Running_">Get
+                      it all running</a>
                     </a></li>
                 </ul>
               </li>
@@ -185,7 +186,7 @@
             <br>
           </div>
           <br>
-          <a href="img/files.zip"><b>Download Decoders and Script</b></a><br>
+          <a href="/files.zip?raw=true"><b>Download Decoders and Script</b></a><br>
           <br>
           <a href="http://happysat.nl/RS/Ubuntu/" target="_blank">Updated
             compiled RS-Decoders are overhere.</a><br>
